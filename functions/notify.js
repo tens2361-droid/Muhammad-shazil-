@@ -1,7 +1,7 @@
 exports.handler = async (event) => {
   // 1. CORS Headers: Sirf aapki Netlify site ko API call karne ki permission hai
   const headers = {
-    "Access-Control-Allow-Origin": "https://grand-pudding-756588.netlify.app", 
+    "Access-Control-Allow-Origin": "https://unrivaled-syrniki-a69458.netlify.app", 
     "Access-Control-Allow-Methods": "POST, OPTIONS",
   };
 
